@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLab.NET", "GitLab.NET\GitLab.NET.csproj", "{00799A34-32EF-43B3-A988-9380A3F4140E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice", "..\practicerep\practice\practice\practice.csproj", "{BF663B43-E826-4662-8DE1-6E4E5E0032D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00799A34-32EF-43B3-A988-9380A3F4140E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00799A34-32EF-43B3-A988-9380A3F4140E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00799A34-32EF-43B3-A988-9380A3F4140E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00799A34-32EF-43B3-A988-9380A3F4140E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF663B43-E826-4662-8DE1-6E4E5E0032D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF663B43-E826-4662-8DE1-6E4E5E0032D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF663B43-E826-4662-8DE1-6E4E5E0032D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF663B43-E826-4662-8DE1-6E4E5E0032D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
